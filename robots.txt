@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fusdad-vedxom-1xospa.github.io/Fusdad-vedxom-1xospa/sitemap.xml
